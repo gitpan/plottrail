@@ -1,4 +1,15 @@
 Changes for plottrail.pl script:
 
+0.20    4 Jan 2003
+	- lines are drawn in a lighter color than actual points
+	- reorganized documentation
+	- corrected typos in documentation
+	- added more error checking (won't plot if no data)
+	- modularized code
+	- multiple input files are allowed
+	- fixed confused terms between longitude and latitude in some
+	  portions of code (embarassing!)
+	- commented out assertions in code for coordinate checking
+
 0.10   28 Dec 2002
 	- first release
